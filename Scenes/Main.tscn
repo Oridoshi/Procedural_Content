@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://cg1ji0h13aouy"]
 
-[ext_resource type="Script" uid="uid://dpbtqan8hk2vu" path="res://Scenes/Main.cs" id="1_r150o"]
-[ext_resource type="Script" uid="uid://igxft7k8ty3j" path="res://Scenes/OrbitCamera.cs" id="2_idj7w"]
+[ext_resource type="Script" path="res://Scenes/Main.cs" id="1_r150o"]
+[ext_resource type="Script" path="res://Scenes/OrbitCamera.cs" id="2_idj7w"]
 
 [node name="Main" type="Node3D" node_paths=PackedStringArray("_mesh")]
 script = ExtResource("1_r150o")
